@@ -2,7 +2,7 @@
 
 ![Coffee](images/coffee.png)
 
-## Descrição Campanha
+## Descrição da Campanha
 🌲 Durante Dezembro estamos a lançar uma campanha de community crowdfunding que nos ajudará no processo de oficialização do projeto d'As Raparigas do Código, nomeadamente com a criação de uma Associação Sem Fins Lucrativos ♥️
 
 👉 Constituir a associação vai permitir-nos ter um NIF, que é essencial para que possamos receber patrocínios e apoios de empresas, e estabelecer parcerias com outras entidades!
