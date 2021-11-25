@@ -35,4 +35,4 @@ No total, estimamos precisar de **cerca de 1000€**.
 Deverão ter as instruções no nosso discord, no channel #buy-coffee ☕️
 
 ## 🎮 Progresso das Doações:
-Vão poder ver o [progresso das doações aqui](https://miriamspsantos.github.io/buy-me-a-coffee/)!
+Vão poder ver o [progresso das doações aqui!](https://miriamspsantos.github.io/buy-me-a-coffee/)
