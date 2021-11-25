@@ -2,7 +2,7 @@
 
 ![Coffee](images/coffee.png)
 
-## Descrição da Campanha
+## Descrição Campanha
 🌲 Durante Dezembro estamos a lançar uma campanha de community crowdfunding que nos ajudará no processo de oficialização do projeto d'As Raparigas do Código, nomeadamente com a criação de uma Associação Sem Fins Lucrativos ♥️
 
 👉 Constituir a associação vai permitir-nos ter um NIF, que é essencial para que possamos receber patrocínios e apoios de empresas, e estabelecer parcerias com outras entidades!
@@ -35,4 +35,4 @@ No total, estimamos precisar de **cerca de 1000€**.
 Deverão ter as instruções no nosso discord, no channel #buy-coffee ☕️
 
 ## 🎮 Progresso das Doações:
-Vão poder ver o [progresso das doações aqui!](https://miriamspsantos.github.io/buy-me-a-coffee/)
+Vão poder ver o progresso das doações aqui: [index.html](index.html)
