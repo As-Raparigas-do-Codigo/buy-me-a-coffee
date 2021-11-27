@@ -20,7 +20,7 @@ Se tudo correr como esperado, será a primeira e única ajuda vossa que iremos p
 
 No total, estimamos precisar de **cerca de 1000€**.
 
-- Domínio [raparigasdocodigo.pt](raparigasdocodigo.pt): 26€/ano;
+- Domínio [raparigasdocodigo.pt](https://raparigasdocodigo.pt): 26€/ano;
 
 - Servidor: conseguimos apoio em créditos (temos servidor por 2 anos, malta! 🎁);
 
