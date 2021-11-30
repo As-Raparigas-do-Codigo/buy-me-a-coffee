@@ -32,7 +32,7 @@ No total, estimamos precisar de **cerca de 1000€**.
 - Honorários de Advogada/o: (❓) Estamos a procurar dentro dos nossos contactos alguma ajuda para escrever os estatutos sem custo; 
 
 ## 💰 Se quiserem, como podem contribuir?
-Basta ler as instruções no nosso discord! Procurem na tab ☕️  **ESPAÇO COMUM**", e verão logo o channel #buy-me-a-coffee-☕️
+Basta ler as instruções no nosso discord! Procurem na tab ☕️  **ESPAÇO COMUM**, e verão logo o channel #buy-me-a-coffee-☕️
 
 ## 🎮 Progresso das Doações:
 Vão poder ver o [progresso das doações aqui!](https://miriamspsantos.github.io/buy-me-a-coffee/)
