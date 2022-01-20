@@ -2,6 +2,13 @@
 
 ![Coffee](images/coffee.png)
 
+
+## Update 2022 🥳
+Obrigada a todos os que participaram neste crowdfunding! 🎁 Estamos a trabalhar para oficializar a associação até ao final de Fevereiro, e iremos regressar em breve com novos workshops (Data Science e Tecnologias Web 2) e mais oportunidades para eventos presenciais.
+
+Neste momento, o Crowdfunding encontra-se **terminado**. Se tu ou a tua empresa gostava de se tornar um patrocinador oficial do projeto, por favor contacta-nos para [asraparigasdocodigo@gmail.com](asraparigasdocodigo@gmail.com).
+
+
 ## Descrição da Campanha
 🌲 Durante Dezembro estamos a lançar uma campanha de community crowdfunding que nos ajudará no processo de oficialização do projeto d'As Raparigas do Código, nomeadamente com a criação de uma Associação Sem Fins Lucrativos ♥️
 
@@ -32,17 +39,18 @@ No total, estimamos precisar de **cerca de 1000€**.
 - Honorários de Advogada/o: (❓) Estamos a procurar dentro dos nossos contactos alguma ajuda para escrever os estatutos sem custo; 
 
 ## 💰 Se quiserem, como podem contribuir?
-Por MB WAY, para qualquer um dos seguintes membros da direcção:
+<!-- Por MB WAY, para qualquer um dos seguintes membros da direcção: -->
 
-- 913-589-565 (Miriam Santos)
-- 912-228-922 (Pedro Fonseca)
-- 918-409-387 (Joana Lopes)
+<!---  913-589-565 (Miriam Santos) -->
+<!-- - 912-228-922 (Pedro Fonseca) -->
+<!-- - 918-409-387 (Joana Lopes) -->
 
-‼️ ⚠️ Por favor, coloquem na descrição "Doação ARDC", para ser facilmente identificado!
+<!--‼️ ⚠️ Por favor, coloquem na descrição "Doação ARDC", para ser facilmente identificado! -->
 
-No final do mês, como agradecimento, estamos a pensar criar um workshop de Natal/Ano Novo, que **será aberto a toda a comunidade, independentemente de quem puder contribuir para o crowdfunding!** 
+<!--No final do mês, como agradecimento, estamos a pensar criar um workshop de Natal/Ano Novo, que **será aberto a toda a comunidade, independentemente de quem puder contribuir para o crowdfunding!** -->
 
-<!-- Basta ler as instruções no nosso discord! Procurem na tab ☕️  **ESPAÇO COMUM**, e verão logo o channel #buy-me-a-coffee-☕️ -->
+Neste momento, o Crowdfunding encontra-se **terminado**. Se tu ou a tua empresa gostava de se tornar um patrocinador oficial do projeto, por favor contacta-nos para [asraparigasdocodigo@gmail.com](asraparigasdocodigo@gmail.com).
+
 
 ## 🎮 Progresso das Doações:
 Vão poder ver o [progresso das doações aqui!](https://miriamspsantos.github.io/buy-me-a-coffee/)
